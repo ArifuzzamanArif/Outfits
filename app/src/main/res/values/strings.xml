@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">OutFits</string>
+
+
+    <string name="mens_business_outfit">At home, you might still enjoy wearing those baggy shorts or oversized shirts even
+        though you have slimmed down…
+
+        \n\n\nBut outside, remember that fit is king. It’s your top concern in the style pyramid (before you think of
+        fabric and function/style) for any clothing item.
+
+        \n\n\nRule of thumb:
+        \n\nIf it doesn’t fit (and can’t be slightly adjusted to fit) – do NOT buy it. It won’t work.
+    </string>
+
+    <string name="mens_casual_outfit">You want to dress better, but most style advice revolves around suiting up or just around whatever’s trendy
+        this season. But that’s not what you’re looking for.
+
+        \n\nYou just want to make a better first impression on people you meet in everyday life. You just want to look
+        good in your clothes without looking too flashy.You just want to look like a better-dressed version of you.
+
+        \n\nAnd that version of you still likes to keep it casual.
+
+        \n\nSo what you’re really looking for is some casual style tips for guys who want to look sharp outside of a suit
+        and tie. Well, you’ve come to the right place.
+    </string>
+
+    <string name="mens_modern_outfit">Don’t you agree these guys look much cooler and more masculine than the ones above? These kinda of t-shirts
+        will make you stand out against an ocean of graphic-tee-wearing men.
+
+        \n\n\nYou might also consider wearing polo shirts or casual shirts. Just because you’re dressing casual doesn’t
+        mean you can’t wear a collar. And a simple white shirt looks great with a  pair of dark blue jeans, which
+        I’ll cover in the next section of this list.
+    </string>
+
+    <string name="mens_street_outfit">These jeans won’t just look better, but they’re more versatile. Just look at these examples below and see
+        how easily they can be dressed up and down as you see fit.
+
+        \n\n\nNote: I’m not saying never, ever wear faded jeans, ever. While you should definitely have a straight
+        dark-blue pair of jeans as pictured, you can certainly wear jeans with a subtle bit of fading. Just avoid
+        those that are overly embellished.
+    </string>
+
+
+    <string name="womens_business_outfit">Pants are fine, but stick to tailored pants with a crease. Khaki, twill, and
+        corduroy are good fabric choices for business casual but stay away from denim and heavy cotton materials. Pants
+        and suits made from wool and wool blends are good standard business attire and work for all seasons. Try to avoid
+        synthetic fabrics like rayon and polyester blends which lack quality and can wrinkle.
+
+        \n\n\nMake sure pants are clean, pressed, and wrinkle-free. The hem should cover the ankle but not drape to the
+        floor. Even if you have a lovely figure, stay away from pants that are too tight.
+
+        \n\n\nThe first rule is, don’t show cleavage. Blouses should be tailored and coordinate with the rest of your outfit.
+        Fine-gauge knit shells are fine but make sure the top is not see-through or too form-fitting.
+    </string>
+
+
+    <string name="womens_casual_outfit">The phrase casual and cute signals to me that the look took less than five minutes to put together.
+
+        \n\n\nFirst you will need jeans because they go with everything. Second, you will need a v-neck or crewneck tee of
+        your choice.
+
+        \n\n\nTo take this plain outfit from drab to fab, focus on the outerwear: Cover up with a blazer for
+        a hint of sophistication and, if your outfit is lacking color, add in a bright pair of earrings or floral
+        boots.The beauty of this ensemble is that it combines all your basic pieces together to form a fresh new look.
+    </string>
+
+    <string name="womens_modern_outfit">Versatile, stylish and surprisingly flattering, no matter what your size. Wear it to the knee (or slightly
+        shorter if worn with black tights), and make sure it has a little stretch and some draping but is not tight.
+        Pair with black tights and booties, or patent-leather pumps for night. Do not wear a flat shoe, but a mid-heel
+        or high-heel pump, wedge shoe or boots. (Here is a video about how to shop for shoes that are both stylish and
+        sensible.)
+
+
+        \n\n\nTIP: A black jacket could look severe with this skirt, instead, balance the look with a long tank and a
+        cropped multicolored jacket. The best-fitting pencil skirts I have found are from Diane von Furstenberg,
+        Michael Kors and Tahari in prices starting at about $120, but you can shop around.
+    </string>
+
+    <string name="womens_street_outfit">This is another popular and cool direction of casual style, which is, indeed, perfect in its thoroughness.
+        Here you have absolutely no boundaries or limitations and have the free choice of vibes and ways of
+        self-expression instead. The most important thing is not to forget about the proportions of delicacy for the
+        effortless looks.
+    </string>
+
+
+    <string name="boys_casual_outfit">Why you will love it
+
+        \n\n\nYour kids feet grow so fast, it feels like you are constantly on the lookout for sturdy
+        kicks. You can choose from a wide range of Nike and Converse sneakers for kids (new styles
+        are added every week). Simply swap them out and return the old pair. It is a great way to budget for shoes over the course of a year, and since every
+        box comes with a prepaid envelope, you can also send back as many old pairs as you like for donation or recycling.
+
+        \n\nAges: from sizes 4c to 7y.
+    </string>
+
+    <string name="boys_modern_outfit">How it works
+
+        \n\n\nSimply pick your style from various personality types, the trendsetter, the sporty superstar,
+        the classic fantastic and more. Then, you will receive six mix-and-match items. If you want to keep everything
+        and returns are totally free. You can also change your style preference or cancel at any time. Sounds like a
+        super deal to us.
+
+        \n\nAges: 5-12
+    </string>
+
+    <string name="boys_street_outfit">Why You will Love It
+
+		\n\n\nKidbox keeps kids top of mind. With a goal of clothing one million children in need, for every complete
+		purchased, the company will donate clothes through their partnership with Delivering Good, a non-profit
+		dedicated to collecting and distributing new clothing to children in need throughout the U.S.
+
+		\n\nAges: Boys 2-14
+    </string>
+
+
+    <string name="girls_casual_outfit">Why You will Love It
+
+		\n\n\nRockets of Awesome taps into your buying history and preferences to create an ultra-customized shopping
+		experience. The more you shop, the more tailored the selections become.
+
+		\n\nAges: Girls 2-14.
+    </string>
+
+
+    <string name="girls_modern_outfit">Why You will Love It
+
+		\n\n\nYou can choose the option that best fits your needs and budget. Each box is different and filled with
+		off-the-beaten-path pieces from more than 100 different brands that you wont find in the average retail store.
+
+		\n\nAges: Boys and girls 0-6
+    </string>
+
+
+    <string name="girls_street_outfit">Why You will Love It
+
+		\n\n\nCustomizable to fit your needs, choose to receive your boxes four or eight times a year or try a one-time
+		trial box. Each box includes fun extras like a coloring sheet and whimsical iron-on patches.
+
+		\n\nAges: Girls 3-12
+    </string>
+
+
+</resources>

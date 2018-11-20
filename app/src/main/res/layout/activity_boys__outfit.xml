@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:background="@color/purple3"
+    tools:context=".Boys_Outfit">
+
+    <ScrollView
+        android:id="@+id/boys_outfit_scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="20dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="Casual OutFit"
+                    android:textSize="30sp"
+                    android:textColor="@color/white"
+                    android:textStyle="italic"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_marginTop="10dp">
+
+                <HorizontalScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="400dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:id="@+id/boys_casualOutfit_imageView1"
+                            android:layout_width="250dp"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:layout_margin="5dp"
+                            android:src="@drawable/boys_casualfashion_image1" />
+
+                        <ImageView
+                            android:id="@+id/boys_casualOutfit_imageView2"
+                            android:layout_width="250dp"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:layout_margin="5dp"
+                            android:src="@drawable/boys_casualfashion_image2" />
+
+                        <ImageView
+                            android:id="@+id/boys_casualOutfit_imageView3"
+                            android:layout_width="250dp"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:layout_margin="5dp"
+                            android:src="@drawable/boys_casualfashion_image3" />
+
+                        <ImageView
+                            android:id="@+id/boys_casualOutfit_imageView4"
+                            android:layout_width="250dp"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:layout_margin="5dp"
+                            android:src="@drawable/boys_casualfashion_image4" />
+
+                    </LinearLayout>
+
+                </HorizontalScrollView>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/boys_casual_outfit"
+                    android:textColor="@color/white"
+                    android:textSize="17sp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="40dp"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="50dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="Modern OutFit"
+                    android:textSize="30sp"
+                    android:textColor="@color/white"
+                    android:textStyle="italic"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_marginTop="10dp">
+
+                <HorizontalScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="400dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:id="@+id/boys_modernOutfit_imageView1"
+                            android:layout_width="250dp"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:layout_margin="5dp"
+                            android:src="@drawable/boys_modernfashion_image1" />
+
+                        <ImageView
+                            android:id="@+id/boys_modernOutfit_imageView2"
+                            android:layout_width="250dp"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:layout_margin="5dp"
+                            android:src="@drawable/boys_modernfashion_image2" />
+
+                        <ImageView
+                            android:id="@+id/boys_modernOutfit_imageView3"
+                            android:layout_width="300dp"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:layout_margin="5dp"
+                            android:src="@drawable/boys_modernfashion_image3" />
+
+                        <ImageView
+                            android:id="@+id/boys_modernOutfit_imageView4"
+                            android:layout_width="275dp"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:layout_margin="5dp"
+                            android:src="@drawable/boys_modernfashion_image4" />
+
+                    </LinearLayout>
+
+                </HorizontalScrollView>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/boys_modern_outfit"
+                    android:textColor="@color/white"
+                    android:textSize="17sp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="40dp"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="50dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="Street OutFit"
+                    android:textSize="30sp"
+                    android:textColor="@color/white"
+                    android:textStyle="italic"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_marginTop="10dp">
+
+                <HorizontalScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="400dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:id="@+id/boys_streetOutfit_imageView1"
+                            android:layout_width="250dp"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:layout_margin="5dp"
+                            android:src="@drawable/boys_streetfashion_image1" />
+
+                        <ImageView
+                            android:id="@+id/boys_streetOutfit_imageView2"
+                            android:layout_width="250dp"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:layout_margin="5dp"
+                            android:src="@drawable/boys_streetfashion_image2" />
+
+                        <ImageView
+                            android:id="@+id/boys_streetOutfit_imageView3"
+                            android:layout_width="250dp"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:layout_margin="5dp"
+                            android:src="@drawable/boys_streetfashion_image3" />
+
+                    </LinearLayout>
+
+                </HorizontalScrollView>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/boys_street_outfit"
+                    android:textColor="@color/white"
+                    android:textSize="17sp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="40dp"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageButton
+                    android:id="@+id/boys_outfit_facebook"
+                    android:layout_width="65dp"
+                    android:layout_height="65dp"
+                    android:src="@drawable/facebook_logo"
+                    android:background="@drawable/purple3_circle"
+                    android:layout_gravity="center"
+                    android:layout_margin="5dp"
+                    />
+
+                <ImageButton
+                    android:id="@+id/boys_outfit_youtube"
+                    android:layout_width="65dp"
+                    android:layout_height="65dp"
+                    android:src="@drawable/youtube_logo"
+                    android:background="@drawable/purple3_circle"
+                    android:layout_gravity="center"
+                    android:layout_margin="5dp"
+                    />
+
+                <ImageButton
+                    android:id="@+id/boys_outfit_instagram"
+                    android:layout_width="65dp"
+                    android:layout_height="65dp"
+                    android:src="@drawable/instagram_logo"
+                    android:background="@drawable/purple3_circle"
+                    android:layout_gravity="center"
+                    android:layout_margin="5dp"
+                    />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:padding="10dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="10dp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+                <LinearLayout
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Contact Us"
+                        android:textSize="25sp"
+                        android:textColor="@color/blue"
+                        android:textStyle="italic"
+                        />
+
+                    <TextView
+                        android:id="@+id/boys_phone_textVew"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="01744349823"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:layout_marginTop="10dp"
+                        />
+
+                    <TextView
+                        android:id="@+id/boys_email_textVew"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="arif.nag2015@gmail.com"
+                        android:textStyle="bold"
+                        android:textColor="@color/white"
+                        android:layout_marginTop="5dp"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_weight="2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/boys_back_to_home"
+                        android:textSize="17sp"
+                        android:text="Home"
+                        android:textAllCaps="false"
+                        android:textColor="@color/blue"
+                        android:textStyle="bold"
+                        android:layout_marginLeft="50dp"
+                        android:layout_marginTop="50dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>
